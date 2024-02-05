@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AravindP2000
+- 👨‍🔧 Flutter & Android Developer.
+- 💻 I’m currently working as a Software Engineer.
+- 👀 I’m interested in Tech.
+- 🥷 Learning DSA & System Design.
